@@ -1,0 +1,28 @@
+{
+    "name": "THUGS",
+    "website": "https://thugs.fi/",
+    "short_description": "THUGS is a Binance Smart Chain DeFi Token with a burn mechanism, forever locked initial liquidity & the centerpiece of the Thugs Fi ecosystem (StreetSwap Exchange, Traphouse Yield Farm & NFT Marketplace).",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ThugsFinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/AJDqFTP"
+        },
+        {
+            "name": "medium",
+            "url": "https://thugsfinance.medium.com/"
+        },
+        {
+            "name": "Docs",
+            "url": "https://docs.thugs.fi/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/thugsfinance"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0xE10e9822A5de22F8761919310DDA35CD997d63c0"
+}

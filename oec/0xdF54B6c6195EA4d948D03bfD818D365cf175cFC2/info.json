@@ -1,0 +1,11 @@
+{
+    "name": "OKB",
+    "website": "https://okex.com",
+    "description": "OKB is a global utility token issued by OK Blockchain foundation.",
+    "explorer": "https://www.oklink.com/oec/tokenAddr/0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
+    "type": "KIP20",
+    "symbol": "OKB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2"
+}

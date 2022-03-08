@@ -1,0 +1,11 @@
+{
+    "name": "BananaShark",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xA2DE9Ec895583b533dC30081a256662b3aaDb674",
+    "type": "BEP20",
+    "symbol": "BBS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xA2DE9Ec895583b533dC30081a256662b3aaDb674"
+}

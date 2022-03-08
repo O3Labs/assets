@@ -1,0 +1,11 @@
+{
+    "name": "Clown HECO Huobi",
+    "website": "-",
+    "description": "",
+    "explorer": "https://hecoinfo.com/address/0x5c8928860fd19ba0fc364bbe9d1b99b084e88889",
+    "type": "HRC20",
+    "symbol": "CHH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5c8928860fd19ba0fc364bbe9d1b99b084e88889"
+}

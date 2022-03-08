@@ -1,0 +1,12 @@
+{
+    "name": "Aave",
+    "website": "https://aave.com",
+    "description": "Aave is a decentralized finance protocol that allows people to lend and borrow crypto.",
+    "explorer": "https://ftmscan.com/token/0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+    "research": "https://research.binance.com/en/projects/aave-protocol",
+    "type": "FANTOM",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B"
+}

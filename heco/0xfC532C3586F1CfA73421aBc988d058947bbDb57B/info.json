@@ -1,0 +1,11 @@
+{
+    "name": "NB Token",
+    "website": "https://nb.pro",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xfc532c3586f1cfa73421abc988d058947bbdb57b",
+    "type": "HRC20",
+    "symbol": "NB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfc532c3586f1cfa73421abc988d058947bbdb57b"
+}

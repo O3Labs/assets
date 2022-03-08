@@ -1,0 +1,11 @@
+{
+    "name": "SushiToken",
+    "website": "https://sushiswap.fi",
+    "description": "SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.",
+    "explorer": "https://arbiscan.io/token/0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
+    "type": "AVALANCHE",
+    "symbol": "SUSHI.e",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A"
+}

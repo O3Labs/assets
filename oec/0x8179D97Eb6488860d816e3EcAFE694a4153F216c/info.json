@@ -1,0 +1,11 @@
+{
+    "name": "CherrySwap Token",
+    "website": "https://www.cherryswap.net",
+    "description": "CherrySwap is the automatic market-making protocol based on OKExChain(OEC).",
+    "explorer": "https://www.oklink.com/oec/address/0x8179d97eb6488860d816e3ecafe694a4153f216c",
+    "type": "KIP20",
+    "symbol": "CHE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8179D97Eb6488860d816e3EcAFE694a4153F216c"
+}

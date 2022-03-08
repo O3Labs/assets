@@ -1,0 +1,11 @@
+{
+    "name": "Treasure Bowl",
+    "website": "www.tebcommunity.com",
+    "description": "TEB is a decentralized community governance token, and TEB holders can receive platform profit dividends.",
+    "explorer": "https://bscscan.com/token/0x1326e89a4b9ab6db3c996a246606018471ac4520",
+    "type": "BEP20",
+    "symbol": "TEB",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x1326E89A4b9AB6DB3C996A246606018471AC4520"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Gucci Token",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xCf0B6415ab9F6c89Ff6473BE53b5E7bb3fEE3681",
+    "type": "BEP20",
+    "symbol": "Gucci",
+    "decimals": 4,
+    "status": "active",
+    "id": "0xCf0B6415ab9F6c89Ff6473BE53b5E7bb3fEE3681"
+}

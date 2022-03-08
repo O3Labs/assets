@@ -1,0 +1,11 @@
+{
+    "name": "LydiaFinance Token",
+    "symbol": "LYD",
+    "type": "AVALANCHE",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://www.lydia.finance/",
+    "explorer": "https://snowtrace.io/token/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
+    "status": "active",
+    "id": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084"
+}

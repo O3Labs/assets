@@ -1,0 +1,29 @@
+{
+    "id": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "name": "Wrapped Fantom",
+    "website": "https://fantom.foundation",
+    "description": "A DAG-Based Smart-Contract Platform.",
+    "explorer": "https://ftmscan.com/token/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "symbol": "WFTM",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/zS4Ek4WByA/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/FantomFDN"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/fantomfoundation"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/FantomFoundation/"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "USD Coin",
+    "website": "https://www.centre.io",
+    "description": "Its price is pegged to USD Coin (USD ERC20) at a ratio of 1:1.",
+    "explorer": "https://snowtrace.io/token/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+    "type": "AVALANCHE",
+    "symbol": "USDC.e",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/centrehq"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://centre.io/pdfs/centre-whitepaper.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/usd-coin/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/usd-coin/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/centre-blog"
+        }
+    ]
+}

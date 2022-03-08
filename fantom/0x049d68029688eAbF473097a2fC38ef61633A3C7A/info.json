@@ -1,0 +1,11 @@
+{
+    "name": "Frapped USDT",
+    "website": "https://anyswap.exchange/",
+    "description": "-",
+    "explorer": "https://ftmscan.com/token/0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+    "type": "FANTOM",
+    "symbol": "fUSDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
+}

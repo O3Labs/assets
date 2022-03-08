@@ -1,0 +1,29 @@
+{
+    "name": "Curve DAO",
+    "website": "https://www.curve.fi/",
+    "description": "The main purposes of the Curve DAO token are to incentivise liquidity providers on the Curve Finance platform as well as getting as many users involved as possible in the governance of the protocol.",
+    "explorer": "https://ftmscan.com/token/0x1e4f97b9f9f913c46f1632781732927b9019c68b",
+    "type": "FANTOM",
+    "symbol": "CRV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/curvefi/curve-contract"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CurveFinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/curvefi"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/curve-dao-token/"
+        }
+    ]
+}

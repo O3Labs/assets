@@ -1,0 +1,11 @@
+{
+    "name": "NFTBET",
+    "website": "https://ht.nftbet.org",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0xE55b3Fb96Bb83fBd483170eaecc39A8159cB253A",
+    "type": "HRC20",
+    "symbol": "BET",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE55b3Fb96Bb83fBd483170eaecc39A8159cB253A"
+}

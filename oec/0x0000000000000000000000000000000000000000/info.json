@@ -1,0 +1,25 @@
+{
+    "id": "0x0000000000000000000000000000000000000000",
+    "name": "OEC Token",
+    "website": "https://www.okx.com/oec",
+    "description": "A DAG-Based Smart-Contract Platform.",
+    "explorer": "https://www.oklink.com/oec",
+    "symbol": "OKT",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/OECprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OKExChainGroup"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/okex/okexchain"
+        }
+    ]
+}

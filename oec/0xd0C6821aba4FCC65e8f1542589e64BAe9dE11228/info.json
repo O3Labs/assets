@@ -1,0 +1,21 @@
+{
+    "id": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
+    "name": "Flux Protocol",
+    "website": "https://flux.01.finance/okexchain",
+    "description": "-",
+    "explorer": "https://www.oklink.com/oec/tokenAddr/0xd0c6821aba4fcc65e8f1542589e64bae9de11228",
+    "symbol": "FLUXK",
+    "type": "KIP20",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zero1_flux"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/flux01"
+        }
+    ]
+}

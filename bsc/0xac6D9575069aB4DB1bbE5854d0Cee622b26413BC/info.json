@@ -1,0 +1,11 @@
+{
+    "name": "COO Token",
+    "website": "https://cootoken.pro",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xac6D9575069aB4DB1bbE5854d0Cee622b26413BC",
+    "type": "BEP20",
+    "symbol": "COO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xac6D9575069aB4DB1bbE5854d0Cee622b26413BC"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Uniswap",
+    "website": "https://uniswap.org",
+    "description": "UNI is the Uniswap protocol token. Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.",
+    "explorer": "https://optimistic.etherscan.io/address/0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+    "research": "https://research.binance.com/en/projects/uniswap",
+    "type": "OPTIMISM",
+    "symbol": "UNI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6fd9d7AD17242c41f7131d257212c54A0e816691"
+}

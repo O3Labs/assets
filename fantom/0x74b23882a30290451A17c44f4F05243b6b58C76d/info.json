@@ -1,0 +1,11 @@
+{
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "type": "FANTOM",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://weth.io/",
+    "explorer": "https://ftmscan.com/token/0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "status": "active",
+    "id": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Donald John Trump",
+    "website": "https://www.djtgame.com",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x2A24FdA9F02e67d6D4C4D7E6917F3F3885621c86",
+    "type": "BEP20",
+    "symbol": "DJT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2A24FdA9F02e67d6D4C4D7E6917F3F3885621c86"
+}

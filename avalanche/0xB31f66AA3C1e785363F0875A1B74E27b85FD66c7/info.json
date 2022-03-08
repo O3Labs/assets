@@ -1,0 +1,24 @@
+{
+    "id": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "name": "Wrapped AVAX",
+    "website": "http://avax.network",
+    "description": "Avalanche is an open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. This is the C-Chain, the default smart contract blockchain on Avalanche that enables the creation of any Ethereum-compatible smart contracts.",
+    "explorer": "https://snowtrace.io/address/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "symbol": "WAVAX",
+    "type": "AVALANCHE",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ava-labs"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.avalabs.org/whitepapers"
+        }
+    ]
+}

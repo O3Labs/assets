@@ -1,0 +1,11 @@
+{
+    "name": "Good people coin",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x69a9690bc076de4facc29f1dc7f257d151a1627d#balances",
+    "type": "BEP20",
+    "symbol": "GPC",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x69a9690bc076de4facc29f1dc7f257d151a1627d"
+}

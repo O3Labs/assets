@@ -1,0 +1,11 @@
+{
+    "name": "Sushi",
+    "website": "https://sushiswap.fi",
+    "description": "SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.",
+    "explorer": "https://ftmscan.com/token/0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+    "type": "FANTOM",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC"
+}

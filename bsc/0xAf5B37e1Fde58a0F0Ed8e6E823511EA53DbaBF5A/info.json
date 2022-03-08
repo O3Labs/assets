@@ -1,0 +1,11 @@
+{
+    "name": "KING",
+    "website": "http://wap.mba",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xAf5B37e1Fde58a0F0Ed8e6E823511EA53DbaBF5A",
+    "type": "BEP20",
+    "symbol": "KING",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xAf5B37e1Fde58a0F0Ed8e6E823511EA53DbaBF5A"
+}

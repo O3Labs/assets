@@ -1,0 +1,12 @@
+{
+    "name": "Aave Token",
+    "website": "https://aave.com",
+    "description": "Aave Protocol is a decentralised liquidity protocol where people can lend and borrow digital assets. The AAVE token is the governance token of the protocol, so AAVE holders can vote on proposals for updates. AAVE holders can also stake their AAVE in the protocol Safety Module and earn Safety Incentives for securing the protocol",
+    "links": [],
+    "explorer": "https://snowtrace.io/token/0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+    "type": "AVALANCHE",
+    "symbol": "AAVE.e",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9"
+}

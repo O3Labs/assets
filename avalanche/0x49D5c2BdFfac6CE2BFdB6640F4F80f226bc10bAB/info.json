@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "type": "ARBITRUM",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://weth.io/",
+    "explorer": "https://arbiscan.io/token/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "status": "active",
+    "id": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+}

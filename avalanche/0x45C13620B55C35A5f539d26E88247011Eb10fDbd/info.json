@@ -1,0 +1,11 @@
+{
+    "name": "Hurricane Token",
+    "symbol": "HCT",
+    "type": "AVALANCHE",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://hurricaneswap.com/",
+    "explorer": "https://snowtrace.io/token/0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
+    "status": "active",
+    "id": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd"
+}

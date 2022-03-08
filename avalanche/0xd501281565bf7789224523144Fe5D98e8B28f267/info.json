@@ -1,0 +1,33 @@
+{
+    "name": "1INCH Token",
+    "website": "https://1inch.exchange",
+    "description": "-",
+    "explorer": "https://snowtrace.io/address/0xd501281565bf7789224523144Fe5D98e8B28f267",
+    "type": "AVALANCHE",
+    "symbol": "1INCH.e",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+    "links": [
+        {
+            "name": "blog",
+            "url": "https://1inch-exchange.medium.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/1inchExchange"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/trustapp"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OneInchExchange"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/1inch/"
+        }
+    ]
+}

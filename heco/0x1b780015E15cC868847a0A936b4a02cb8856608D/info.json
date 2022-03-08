@@ -1,0 +1,11 @@
+{
+    "name": "TYB",
+    "website": "http://TYBtoken.net/",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0x1b780015E15cC868847a0A936b4a02cb8856608D",
+    "type": "HRC20",
+    "symbol": "TYB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1b780015E15cC868847a0A936b4a02cb8856608D"
+}

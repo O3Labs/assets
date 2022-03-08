@@ -1,0 +1,25 @@
+{
+    "id": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+    "name": "Wrapped OKT",
+    "website": "https://www.okx.com/oec",
+    "description": "-",
+    "explorer": "https://www.oklink.com/oec/address/0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+    "symbol": "WOKT",
+    "type": "KIP20",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/OECprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OKExChainGroup"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/okex/okexchain"
+        }
+    ]
+}

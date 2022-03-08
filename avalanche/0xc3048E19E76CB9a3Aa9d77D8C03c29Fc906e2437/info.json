@@ -1,0 +1,11 @@
+{
+    "name": "Compound",
+    "website": "https://compound.finance",
+    "description": "Compound is the governance token for the Compound protocol.",
+    "explorer": "https://snowtrace.io/address/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+    "type": "AVALANCHE",
+    "symbol": "COMP.e",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437"
+}
