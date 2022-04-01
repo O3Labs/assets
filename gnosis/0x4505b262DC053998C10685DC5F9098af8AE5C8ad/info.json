@@ -1,0 +1,11 @@
+{
+    "name": "Uniswap V2",
+    "symbol": "UNI-V2",
+    "type": "GNOSIS",
+    "decimals": 18,
+    "description": "This Uniswap Liquidity Provider (LP) token represents the HNY and WXDAI pairing.",
+    "website": "-",
+    "explorer": "https://blockscout.com/xdai/mainnet/token/0x4505b262DC053998C10685DC5F9098af8AE5C8ad/token-transfers",
+    "status": "active",
+    "id": "0x4505b262DC053998C10685DC5F9098af8AE5C8ad"
+}

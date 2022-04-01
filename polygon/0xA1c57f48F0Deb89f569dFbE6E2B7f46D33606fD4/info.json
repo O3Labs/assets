@@ -1,0 +1,12 @@
+{
+    "name": "(PoS) Decentraland MANA",
+    "website": "https://decentraland.org",
+    "description": "Decentraland (MANA) defines itself as a virtual reality platform powered by the Ethereum blockchain that allows users to create, experience, and monetize content and applications.",
+    "links": [],
+    "explorer": "https://polygonscan.com/token/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+    "type": "POLYGON",
+    "symbol": "MANA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
+}
