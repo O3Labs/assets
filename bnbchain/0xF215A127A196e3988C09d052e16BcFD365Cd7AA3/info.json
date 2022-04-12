@@ -1,7 +1,1 @@
-{
-    "name": "Wrapped Mirror TSLA Token",
-    "website": "https://mirror.finance",
-    "short_description": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets.",
-    "explorer": "https://www.bscscan.com/token/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
-    "research": ""
-}
+{"id":"0xF215A127A196e3988C09d052e16BcFD365Cd7AA3","name":"Wrapped Mirror TSLA Token","type":"BEP20","symbol":"mTSLA","decimals":18,"website":"https://mirror.finance","description":"","explorer":"https://www.bscscan.com/token/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3","status":"active","links":null}

@@ -1,6 +1,1 @@
-{
-    "name": "CREAM",
-    "website": "https://cream.finance",
-    "short_description": "Cream - Crypto Rules Everything Around Me",
-    "explorer": "https://bscscan.com/token/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888"
-}
+{"id":"0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888","name":"Cream","type":"BEP20","symbol":"CREAM","decimals":18,"website":"https://cream.finance","description":"","explorer":"https://bscscan.com/token/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888","status":"active","links":null}

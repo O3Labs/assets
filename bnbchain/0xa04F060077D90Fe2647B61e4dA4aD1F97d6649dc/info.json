@@ -1,7 +1,1 @@
-{
-    "name": "Wrapped Mirror NFLX Token",
-    "website": "https://mirror.finance",
-    "short_description": "Mirror Protocol allows the creation of fungible assets, “synthetics”, that track the price of real-world assets.",
-    "explorer": "https://www.bscscan.com/token/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
-    "research": ""
-}
+{"id":"0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc","name":"Wrapped Mirror NFLX Token","type":"BEP20","symbol":"mNFLX","decimals":18,"website":"https://mirror.finance","description":"","explorer":"https://www.bscscan.com/token/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc","status":"active","links":null}

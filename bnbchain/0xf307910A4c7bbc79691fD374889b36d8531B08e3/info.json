@@ -1,7 +1,1 @@
-{
-    "name": "Ankr Token",
-    "website": "https://ankr.com",
-    "short_description": "Ankr is building an infrastructure platform and marketplace for Web3-stack deployment.",
-    "explorer": "https://bscscan.com/token/0xf307910A4c7bbc79691fD374889b36d8531B08e3",
-    "research": "https://research.binance.com/en/projects/ankr-network"
-}
+{"id":"0xf307910A4c7bbc79691fD374889b36d8531B08e3","name":"Ankr","type":"BEP20","symbol":"ANKR","decimals":18,"website":"https://ankr.com","description":"","explorer":"https://bscscan.com/token/0xf307910A4c7bbc79691fD374889b36d8531B08e3","status":"active","links":null}

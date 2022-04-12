@@ -1,7 +1,1 @@
-{
-    "name": "Litecoin Token",
-    "website": "https://litecoin.org/",
-    "short_description": "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world.",
-    "explorer": "https://bscscan.com/token/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
-    "research": "https://research.binance.com/en/projects/litecoin"
-}
+{"id":"0x4338665CBB7B2485A8855A139b75D5e34AB0DB94","name":"Litecoin Token","type":"BEP20","symbol":"LTC","decimals":18,"website":"https://litecoin.org/","description":"","explorer":"https://bscscan.com/token/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94","status":"active","links":null}

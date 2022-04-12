@@ -1,7 +1,1 @@
-{
-    "name": "Order of the Black Rose",
-    "website": "https://nftobr.com",
-    "short_description": "The official token of Order of the Black Rose",
-    "explorer": "https://bscscan.com/token/0xe49ed1B44117BB7379c1506cf5815aE33089e1A7",
-    "research": ""
-}
+{"id":"0xe49ed1B44117BB7379c1506cf5815aE33089e1A7","name":"OBRB","type":"BEP20","symbol":"OBRb","decimals":18,"website":"https://nftobr.com","description":"","explorer":"https://bscscan.com/token/0xe49ed1B44117BB7379c1506cf5815aE33089e1A7","status":"active","links":null}

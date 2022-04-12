@@ -1,7 +1,1 @@
-{
-    "name": "Binance-Peg Ethereum Classic",
-    "website": "https://ethereumclassic.org",
-    "short_description": "Ethereum Classic (ETC) is a hard fork of Ethereum (ETH) that launched in July 2016.",
-    "explorer": "https://bscscan.com/token/0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
-    "research": "https://research.binance.com/en/projects/ethereum-classic"
-}
+{"id":"0x3d6545b08693daE087E957cb1180ee38B9e3c25E","name":"Ethereum Classic","type":"BEP20","symbol":"ETC","decimals":18,"website":"https://ethereumclassic.org","description":"","explorer":"https://bscscan.com/token/0x3d6545b08693dae087e957cb1180ee38b9e3c25e","status":"active","links":null}

@@ -1,7 +1,1 @@
-{
-    "name": "BSC Farm",
-    "website": "https://bsc.farm",
-    "short_description": "BSC Farm.",
-    "explorer": "https://bscscan.com/token/0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88",
-    "research": ""
-}
+{"id":"0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88","name":"BSC FARM","type":"BEP20","symbol":"BSC","decimals":18,"website":"https://bsc.farm","description":"","explorer":"https://bscscan.com/token/0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88","status":"active","links":null}
