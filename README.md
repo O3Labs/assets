@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is mainly to maintain the LOGOs and related information of the assets on mainstream blockchains. Based on the principle of free, friendly, and open source, everyone is welcome to contribute the project information to the repository. We will review the submitted information as quickly as possible then it can be displayed on the [O3 Cross-Chain Wallet ](https://o3.network/#/wallet) once they’ve been verified.
+This repository is mainly to maintain the LOGOs and related information of the assets on mainstream blockchains. Based on the principle of free, friendly, and open source, everyone is welcome to contribute the project information to the repository. We will review the submitted information as quickly as possible then it can be displayed on the [O3 Cross-Chain Wallet](https://o3.network/#/wallet) once they’ve been verified.
 
 In order for users to have a more comprehensive and detailed understanding of the listed tokens, please upload the complete project information in the following format.
 
