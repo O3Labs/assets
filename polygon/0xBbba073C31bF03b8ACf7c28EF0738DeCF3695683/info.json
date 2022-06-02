@@ -1,0 +1,53 @@
+{
+    "name": "The Sandbox",
+    "type": "POLYGON",
+    "symbol": "SAND",
+    "decimals": 18,
+    "website": "http://www.sandbox.game/",
+    "description": "The Sandbox is a blockchain-based virtual world allowing users to create, build, buy and sell digital assets in the form of a game. By combining the powers of decentralized autonomous organizations (DAO) and non-fungible tokens (NFTs), the Sandbox creates a decentralized platform for a thriving gaming community.",
+    "explorer": "https://polygonscan.com/token/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "status": "active",
+    "id": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/the-sandbox/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/the-sandbox/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/thesandboxgame/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/vAe4zvY"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TheSandboxGame"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/TheSandboxGame/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/sandboxgame"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/sandbox-game"
+        },
+        {
+            "name": "email",
+            "url": "contact@sandbox.game"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/thesandbox-game"
+        }
+    ]
+}
