@@ -20,7 +20,7 @@ In order for users to have a more comprehensive and detailed understanding of th
 - links (twitter, telegram, discord…)
 - Token logo (256x256 pixels, the image is in PNG format with transparent background)
 
-Sample of Pull Request [Here 👈🏻](https://github.com/O3Labs/assets/tree/main/eth/0xEe9801669C6138E84bD50dEB500827b776777d28)
+Sample of Pull Request [Here 👈🏻](https://github.com/O3Labs/assets/pull/2)
 
 When the above information is submitted through pull request, we will review and process it as soon as possible. If your information changes, please re-issue the pull request. The information about the token will be displayed in the Introduction of the corresponding asset after the review has been passed.
 
