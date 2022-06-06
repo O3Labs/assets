@@ -1,0 +1,41 @@
+{
+    "name": "Algebra",
+    "website": "https://algebra.finance/",
+    "description": "ALGB token is a platform token of the Algebra DEX. It can be staked, used for community governance, increasing your liquidity when farming in the frame of the Multi-Tiered Farming System, and more. Once the Algebra DEX is deployed on another chain, its token's utility is planned to be expanded even further.",
+    "explorer": "https://polygonscan.com/token/0x0169ec1f8f639b32eec6d923e24c2a2ff45b9dd6",
+    "type": "POLYGON",
+    "symbol": "ALGB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0169ec1f8f639b32eec6d923e24c2a2ff45b9dd6",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.gg/MneScXrq6T"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/cryptoalgebra_chat"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CryptoAlgebra"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/cryptoalgebra"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@crypto_algebra"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/algebra"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/algebra/"
+        }
+    ]
+}
