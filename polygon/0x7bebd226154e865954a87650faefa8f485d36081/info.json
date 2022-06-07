@@ -2,12 +2,12 @@
   "name": "ZIG Coin",
   "website": "https://zignaly.com/",
   "description": "ZIG Coin is the governance token from the Zignaly social investment platform. Zignaly ecosystem is composed by several services: The flagship service, profit-sharing, which connects expert money managers with investors around the world. A bridge for swapping between different chains, a vault, a launchpad and a raffles for NFTs and basket of coins.",
-  "explorer": "https://polygonscan.com/address/0x7bebd226154e865954a87650faefa8f485d36081",
+  "explorer": "https://polygonscan.com/address/0x7BeBd226154E865954A87650FAefA8F485d36081",
   "type": "POLYGON",
   "symbol": "ZIG",
   "decimals": 18,
   "status": "active",
-  "id": "0x7bebd226154e865954a87650faefa8f485d36081",
+  "id": "0x7BeBd226154E865954A87650FAefA8F485d36081",
   "links": [
     {
       "name": "github",
