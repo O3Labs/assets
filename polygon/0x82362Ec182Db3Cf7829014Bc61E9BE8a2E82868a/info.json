@@ -1,0 +1,33 @@
+{
+  "name": "Meshswap protocol",
+  "type": "POLYGON",
+  "symbol": "MESH",
+  "decimals": 18,
+  "website": "https://meshswap.fi/",
+  "description": "meshswap is a unique AMM DEX (Swap, Lend, Farm & Leverage, and Stake) protocol on polygon. No private sale, No presale, Community-driven $MESH : MESH is not just the incentive booster of the meshswap ecosystem but also the governance token which has a core authority to determine MESH reward distribution. Only MESH stakers can participate in pool voting that determines which pool to distribute more MESHs. MESH stakers can receive an additional 50% of the trading fees from the pool and additional rewards generated from our ecosystem.",
+  "explorer": "https://polygonscan.com/token/0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
+  "status": "active",
+  "id": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Meshswap_Fi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MeshswapChannel"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/tnFvuEVgHB"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@Meshswap"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/meshswap-protocol/"
+    }
+  ]
+}
