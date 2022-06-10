@@ -1,0 +1,30 @@
+{
+    "id": "0x0000000000000000000000000000000000000000",
+    "name": "SKALE",
+    "website": "https://skale.space/",
+    "short_description": "SKALE Network is an open source Web3 platform intended to bring speed and configurability to blockchain. SKALE Network token (SKL) is a hybrid use token which represents the right to work in the network as a validator, stake as a delegator, or access a share of its resources.",
+    "type": "utility token | erc20",
+    "symbol": "SKL",
+    "decimals": 18,
+    "explorer": "https://etherscan.io/token/0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": " https://twitter.com/SkaleNetwork",
+            "handle": "SkaleNetwork"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/skalenetwork"
+        },
+        {
+            "name": "discord",
+            "url": "http://skale.chat/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/skaleofficial",
+        }
+    ]
+}
