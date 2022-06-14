@@ -1,0 +1,37 @@
+{
+    "id": "0x4200000000000000000000000000000000000042",
+    "name": "Optimistic",
+    "website": "https://app.optimism.io/governance",
+    "description": "A new type of community designed to reward public goods and build a sustainable future for Ethereum.",
+    "explorer": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042",
+    "symbol": "OP",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ethereum-optimism"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/optimismPBC"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord-gateway.optimism.io/"
+        },
+        {
+            "name": "medium",
+            "url": "https://optimismpbc.medium.com/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/optimism-ethereum/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/coins/optimism"
+        }
+    ]
+}
