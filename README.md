@@ -8,7 +8,13 @@ In order for users to have a more comprehensive and detailed understanding of th
 
 ## Information Preparation
 
-- id
+We recommend that
+
+The path like this `assets/ChainName/ContractAddress/[logo.png|info.json]`
+
+The `ContractAddress` MUST BE [Checksummed](https://eips.ethereum.org/EIPS/eip-55), Here is the [tool](https://ethsum.netlify.app/).
+
+- id (`Checksummed`)
 - name
 - type
 - symbol
