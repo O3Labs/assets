@@ -1,0 +1,12 @@
+{
+    "id": "0x57EeA49Ec1087695274A9c4f341e414eb64328c2",
+    "name": "Cube-Peg ETH Token",
+    "website": "https://www.cubescan.network/token/0x57EeA49Ec1087695274A9c4f341e414eb64328c2",
+    "description": "-",
+    "links": [],
+    "explorer": "-",
+    "symbol": "ETH",
+    "type": "CRC20",
+    "decimals": 18,
+    "status": "active"
+}

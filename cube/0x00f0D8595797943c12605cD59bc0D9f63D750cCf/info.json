@@ -1,0 +1,12 @@
+{
+    "name": "Cube-Peg USD Coin",
+    "website": "-",
+    "description": "Its price is pegged to USD Coin (USD ERC20) at a ratio of 1:1.",
+    "explorer": "https://www.cubescan.network/token/0x00f0D8595797943c12605cD59bc0D9f63D750cCf",
+    "type": "CRC20",
+    "symbol": "USDC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x00f0D8595797943c12605cD59bc0D9f63D750cCf",
+    "links": []
+}

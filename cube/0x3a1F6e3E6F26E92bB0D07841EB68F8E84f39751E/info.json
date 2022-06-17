@@ -1,0 +1,11 @@
+{
+    "name": "Cube-Peg DAI Token",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://www.cubescan.network/token/0x3a1F6e3E6F26E92bB0D07841EB68F8E84f39751E",
+    "type": "CRC20",
+    "symbol": "DAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3a1F6e3E6F26E92bB0D07841EB68F8E84f39751E"
+}

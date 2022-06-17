@@ -1,0 +1,11 @@
+{
+    "name": "Cube-Peg USDT Token",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://www.cubescan.network/token/0x79F1520268A20c879EF44d169A4E3812D223C6de",
+    "type": "CRC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x79F1520268A20c879EF44d169A4E3812D223C6de"
+}
