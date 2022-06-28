@@ -1,0 +1,12 @@
+{
+    "id": "0x040eA5C10e6BA4Badb6c433A365cCC4968697230",
+    "name": "Cube-Peg BTC Token",
+    "website": "https://www.cubescan.network/token/0x040eA5C10e6BA4Badb6c433A365cCC4968697230",
+    "description": "-",
+    "links": [],
+    "explorer": "-",
+    "symbol": "BTC",
+    "type": "CRC20",
+    "decimals": 18,
+    "status": "active"
+}
