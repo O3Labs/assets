@@ -1,0 +1,29 @@
+{
+    "id": "0x0000000000000000000000000000000000000000",
+    "name": "Metis Token",
+    "website": "https://www.metis.io/",
+    "description": "A New L2 Ethereum Solution for DAOs and Other Organizations.",
+    "explorer": "https://stardust-explorer.metis.io/",
+    "symbol": "METIS",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/MetisProtocol"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MetisDAO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MetisDAO"
+        },
+        {
+            "name": "medium",
+            "url": "https://metisdao.medium.com/"
+        }
+    ]
+}
