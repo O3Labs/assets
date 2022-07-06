@@ -1,1 +1,33 @@
-{"id":"0x4197C6EF3879a08cD51e5560da5064B773aa1d29","name":"ACryptoS","type":"BEP20","symbol":"ACS","decimals":18,"website":"https://acryptos.com/","description":"ACryptoS Vaults grow your assets via automated yield Strategies. This saves users time and enables higher yields through more frequent compounding, more efficient gas utilisation, and other creative automations. ACryptoS StableSwap is an automated market maker (AMM) enabling fast and efficient stablecoin trading at the best prices with low slippage and fees on Binance Smart Chain.","explorer":"https://bscscan.com/token/0x4197c6ef3879a08cd51e5560da5064b773aa1d29","status":"active","links":[{"url":"https://twitter.com/acryptosx","name":"twitter"},{"url":"https://acryptos.medium.com/","name":"medium"},{"url":"https://t.me/acryptos9","name":"telegram"}]}
+{
+  "id": "0x4197C6EF3879a08cD51e5560da5064B773aa1d29",
+  "name": "ACryptoS",
+  "type": "BEP20",
+  "symbol": "ACS",
+  "decimals": 18,
+  "website": "https://acryptos.com/",
+  "description": "ACS is the governance token for the autocompounding vault products by ACryptoS (Advanced Crypto Strategies). ACryptoS Vaults grow your assets via automated yield strategies. This saves users time and enables higher yields through higher frequency compounds, highly efficient gas utilisation, and other creative automations to optimize your yields.",
+  "explorer": "https://bscscan.com/token/0x4197c6ef3879a08cd51e5560da5064b773aa1d29",
+  "status": "active",
+  "links": [
+    {
+      "url": "https://twitter.com/acryptosdao",
+      "name": "twitter"
+    },
+    {
+      "url": "https://medium.com/acryptos",
+      "name": "medium"
+    },
+    {
+      "url": "https://t.me/acryptos9",
+      "name": "telegram"
+    },
+    {
+      "url": "https://www.reddit.com/r/ACryptoS",
+      "name": "reddit"
+    },
+    {
+      "url": "https://discord.gg/xHqhWxUeeR",
+      "name": "discord"
+    }
+  ]
+}
