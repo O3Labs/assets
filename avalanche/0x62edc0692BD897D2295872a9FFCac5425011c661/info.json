@@ -1,0 +1,11 @@
+{
+    "name": "GMX",
+    "website": "https://gmx.io/",
+    "description": "-",
+    "explorer": "https://snowtrace.io/address/0x62edc0692BD897D2295872a9FFCac5425011c661",
+    "type": "AVALANCHE",
+    "symbol": "GMX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x62edc0692BD897D2295872a9FFCac5425011c661"
+}

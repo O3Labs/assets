@@ -1,0 +1,11 @@
+{
+    "name": "USDT Token",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://andromeda-explorer.metis.io/address/0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
+    "type": "METIS",
+    "symbol": "m.USDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC"
+}

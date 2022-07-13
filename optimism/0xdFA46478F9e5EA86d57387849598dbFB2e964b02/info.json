@@ -1,0 +1,11 @@
+{
+    "name": "Mai Stablecoin",
+    "website": "",
+    "description": "-",
+    "explorer": "https://optimistic.etherscan.io/address/0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+    "type": "OPTIMISM",
+    "symbol": "MAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02"
+}

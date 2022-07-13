@@ -1,9 +1,9 @@
 {
-    "id": "0x0000000000000000000000000000000000000000",
+    "id": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
     "name": "Metis Token",
     "website": "https://www.metis.io/",
     "description": "A New L2 Ethereum Solution for DAOs and Other Organizations.",
-    "explorer": "https://andromeda-explorer.metis.io/",
+    "explorer": "https://andromeda-explorer.metis.io/address/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/transactions",
     "symbol": "METIS",
     "type": "coin",
     "decimals": 18,

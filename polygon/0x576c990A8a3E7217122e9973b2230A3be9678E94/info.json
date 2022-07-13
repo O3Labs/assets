@@ -1,0 +1,18 @@
+{
+    "name": "DeFiner",
+    "website": "https://definer.org/",
+    "description": "Earn interest and access instant loans through DeFiner’s noncustodial platform. Truly peer-to-peer. Secure. No middlemen.",
+    "explorer": "https://polygonscan.com/address/0x576c990A8a3E7217122e9973b2230A3be9678E94",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/definerorg",
+            "handle": "DeFinerorg"
+        }
+    ],
+    "type": "POLYGON",
+    "symbol": "FIN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x576c990A8a3E7217122e9973b2230A3be9678E94"
+}

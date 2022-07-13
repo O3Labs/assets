@@ -1,0 +1,11 @@
+{
+    "name": "Ether",
+    "symbol": "WETH",
+    "type": "METIS",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://weth.io/",
+    "explorer": "https://andromeda-explorer.metis.io/address/0x420000000000000000000000000000000000000A",
+    "status": "active",
+    "id": "0x420000000000000000000000000000000000000A"
+}

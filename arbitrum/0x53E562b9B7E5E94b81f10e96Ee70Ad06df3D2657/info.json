@@ -1,0 +1,34 @@
+{
+    "name": "BabySwap Token",
+    "website": "https://babyswap.finance",
+    "description": "-",
+    "explorer": "https://bscscan.com/address/0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+    "type": "BEP20",
+    "symbol": "BABY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/baby_swap",
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/babyswap_bsc",
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/babyswap"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/babyswap/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/babyswap/",
+            "handle": "chainlink"
+        }
+    ]
+}

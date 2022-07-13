@@ -1,0 +1,11 @@
+{
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "type": "AVALANCHE",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://abracadabra.money",
+    "explorer": "https://snowtrace.io/token/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+    "status": "active",
+    "id": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814"
+}

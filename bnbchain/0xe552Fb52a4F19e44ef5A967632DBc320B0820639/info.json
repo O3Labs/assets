@@ -1,11 +1,11 @@
 {
-    "id": "0x0000000000000000000000000000000000000000",
+    "id": "0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
     "name": "Metis Token",
     "website": "https://www.metis.io/",
     "description": "A New L2 Ethereum Solution for DAOs and Other Organizations.",
-    "explorer": "https://andromeda-explorer.metis.io/",
+    "explorer": "https://bscscan.com/token/0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
     "symbol": "METIS",
-    "type": "coin",
+    "type": "BEP20",
     "decimals": 18,
     "status": "active",
     "links": [

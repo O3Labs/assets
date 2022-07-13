@@ -1,0 +1,11 @@
+{
+    "name": "GMX",
+    "website": "https://gmx.io/",
+    "description": "-",
+    "explorer": "https://arbiscan.io/address/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+    "type": "ARBITRUM",
+    "symbol": "GMX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"
+}

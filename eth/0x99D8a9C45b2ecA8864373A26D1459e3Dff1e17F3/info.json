@@ -1,0 +1,11 @@
+{
+    "name": "Magic Internet Money",
+    "website": "https://abracadabra.money/",
+    "description": "-",
+    "explorer": "https://etherscan.io/address/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+    "type": "ERC20",
+    "symbol": "MIM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3"
+}

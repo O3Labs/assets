@@ -1,0 +1,30 @@
+{
+    "id": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+    "name": "Fantom",
+    "website": "https://fantom.foundation",
+    "description": "A DAG-Based Smart-Contract Platform.",
+    "explorer": "https://bscscan.com/token/0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+    "research": "https://research.binance.com/en/projects/fantom",
+    "symbol": "FTM",
+    "type": "BEP20",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/zS4Ek4WByA/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/FantomFDN"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/fantomfoundation"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/FantomFoundation/"
+        }
+    ]
+}

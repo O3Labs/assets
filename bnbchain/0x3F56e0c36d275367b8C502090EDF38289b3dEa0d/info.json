@@ -1,0 +1,11 @@
+{
+    "name": "Mai Stablecoin",
+    "website": "",
+    "description": "-",
+    "explorer": "https://blockscout.com/xdai/mainnet/address/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+    "type": "BEP20",
+    "symbol": "MAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d"
+}

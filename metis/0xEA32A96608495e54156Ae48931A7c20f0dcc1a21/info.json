@@ -1,0 +1,12 @@
+{
+    "name": "USD Coin",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://andromeda-explorer.metis.io/address/0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+    "type": "METIS",
+    "symbol": "m.USDC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+    "links": []
+}
