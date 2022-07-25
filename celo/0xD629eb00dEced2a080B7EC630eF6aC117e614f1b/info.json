@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Bitcoin",
+    "website": "https://wbtc.network",
+    "description": "-",
+    "explorer": "https://explorer.celo.org/address/0xD629eb00dEced2a080B7EC630eF6aC117e614f1b/transactions",
+    "type": "CELO",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b"
+}

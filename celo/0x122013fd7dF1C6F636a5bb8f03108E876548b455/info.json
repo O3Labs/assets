@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "type": "CELO",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://weth.io/",
+    "explorer": "https://explorer.celo.org/address/0x122013fd7dF1C6F636a5bb8f03108E876548b455/transactions",
+    "status": "active",
+    "id": "0x122013fd7dF1C6F636a5bb8f03108E876548b455"
+}
