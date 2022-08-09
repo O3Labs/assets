@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped BTC",
+    "website": "https://www.wbtc.network/",
+    "description": "Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin.",
+    "explorer": "https://explorer.celo.org/address/0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B/transactions",
+    "type": "CELO",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B"
+}

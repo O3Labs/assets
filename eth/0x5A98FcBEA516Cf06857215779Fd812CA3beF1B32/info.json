@@ -1,0 +1,45 @@
+{
+    "name": "Lido DAO Token",
+    "type": "ERC20",
+    "symbol": "LDO",
+    "decimals": 18,
+    "website": "https://stake.lido.fi/",
+    "description": "Lido DAO is a community that builds liquid staking service for Ethereum. Lido allows users to earn staking rewards without locking assets or maintaining staking infrastructure.",
+    "explorer": "https://etherscan.io/token/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+    "status": "active",
+    "id": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/lidofinance"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://lido.fi/static/Lido:Ethereum-Liquid-Staking.pdf"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/lidofinance"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/lidofinance/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/lidofinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/vgdPfhZ"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/lido-dao/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/lido-dao/"
+        }
+    ]
+}
