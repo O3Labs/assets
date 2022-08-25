@@ -1,0 +1,11 @@
+{
+    "name": "GhostMarket Token",
+    "website": "https://ghostmarket.io/",
+    "description": "",
+    "explorer": "https://snowtrace.io/token/0x0B53b5dA7d0F275C31a6A182622bDF02474aF253",
+    "type": "AVALANCHE",
+    "symbol": "GM",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x0B53b5dA7d0F275C31a6A182622bDF02474aF253"
+}

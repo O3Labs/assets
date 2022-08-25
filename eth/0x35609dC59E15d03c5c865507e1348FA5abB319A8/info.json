@@ -1,0 +1,11 @@
+{
+    "name": "GhostMarket Token",
+    "website": "https://ghostmarket.io/",
+    "description": "",
+    "explorer": "https://etherscan.io/token/0x35609dC59E15d03c5c865507e1348FA5abB319A8",
+    "type": "ERC20",
+    "symbol": "GM",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x35609dC59E15d03c5c865507e1348FA5abB319A8"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "GhostMarket Token",
+    "website": "https://ghostmarket.io/",
+    "description": "",
+    "explorer": "https://polygonscan.com/token/0x6a335AC6A3cdf444967Fe03E7b6B273c86043990",
+    "type": "POLYGON",
+    "symbol": "GM",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x6a335AC6A3cdf444967Fe03E7b6B273c86043990"
+}
