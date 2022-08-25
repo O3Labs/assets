@@ -1,0 +1,11 @@
+{
+    "name": "StackOS",
+    "website": "https://www.stackos.io/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3",
+    "type": "BEP20",
+    "symbol": "STACK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6855f7bb6287F94ddcC8915E37e73a3c9fEe5CF3"
+}
