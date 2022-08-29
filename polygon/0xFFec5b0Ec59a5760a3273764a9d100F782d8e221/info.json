@@ -1,0 +1,41 @@
+{
+    "name": "MULTIVERSE",
+    "website": "https://fntokens4.editorx.io/multiverse",
+    "description": "MULTIVERSE token is a utility token used in the upcoming play 2 earn game MULTIVERSE HEROES. It can be staked, Farmed, Earned, and more. Once MULTIVERSE HEROES is Launched on Mainnet, its token's utility is planned to be expanded even further.",
+    "explorer": "https://polygonscan.com/token/0xffec5b0ec59a5760a3273764a9d100f782d8e221?a=0x4f50DccD2c27dAA4cF82dA8B2b1A007037389Ed5",
+    "type": "POLYGON",
+    "symbol": "MV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFFec5b0Ec59a5760a3273764a9d100F782d8e221",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.gg/AVRFrVGdN9"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/fntoken"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/multiversec2c"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/MULTIVERSE-C2C"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@FN_TOKENS"
+        },
+        {
+            "name": "Nomics",
+            "url": "https://nomics.com/assets/mv3-multiverse"
+        },
+        {
+            "name": "Coincodex",
+            "url": "https://coincodex.com/crypto/multiverse-mv/"
+        }
+    ]
+}
