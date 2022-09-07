@@ -1,0 +1,12 @@
+{
+    "name": "TEN Finance",
+    "website": "https://ten.finance/ ",
+    "description": "TEN is a yield aggregator / optimizer that simplifies staking and yield farming with the most liquid CUBE Chain Liquidity Pools.",
+    "explorer": "https://www.cubescan.network/address/0xbd817b6a0bd9ce5b9e990e3929e07eda14657e94",
+    "type": "CRC20",
+    "symbol": "TENFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBd817B6A0Bd9Ce5b9E990e3929E07EdA14657E94",
+    "links": []
+}
