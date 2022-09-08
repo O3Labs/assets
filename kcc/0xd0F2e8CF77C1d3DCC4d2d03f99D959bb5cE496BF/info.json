@@ -1,0 +1,11 @@
+{
+    "id": "0xd0F2e8CF77C1d3DCC4d2d03f99D959bb5cE496BF",
+    "name": "CoolHash",
+    "website": "-",
+    "short_description": "-",
+    "explorer": "https://explorer.kcc.io/token/0xd0F2e8CF77C1d3DCC4d2d03f99D959bb5cE496BF",
+    "type": "KRC20",
+    "symbol": "COOHA",
+    "decimals": 18,
+    "status": "active"
+}

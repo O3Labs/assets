@@ -1,0 +1,12 @@
+{
+    "name": "KCC-Peg Decentraland",
+    "website": "https://decentraland.org",
+    "description": "-",
+    "links": [],
+    "explorer": "https://explorer.kcc.io/token/0xC19a5caCC2bb68Ff09f2Fcc695F31493A039Fa5e",
+    "type": "KRC20",
+    "symbol": "MANA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC19a5caCC2bb68Ff09f2Fcc695F31493A039Fa5e"
+}

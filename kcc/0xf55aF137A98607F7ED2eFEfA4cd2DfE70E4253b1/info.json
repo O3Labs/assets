@@ -1,0 +1,11 @@
+{
+    "id": "0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
+    "name": "KCC-Peg Ether",
+    "website": "https://ethereum.org/",
+    "short_description": "Ethereum is a global, open-source platform for decentralized applications. Eth is fueling transactions on the Chain.",
+    "explorer": "https://explorer.kcc.io/token/0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
+    "type": "KRC20",
+    "symbol": "ETH",
+    "decimals": 18,
+    "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "0xfA93C12Cd345c658bc4644D1D4E1B9615952258C",
+    "name": "KCC-Peg BTCK Token",
+    "website": "https://explorer.kcc.io/token/0xfA93C12Cd345c658bc4644D1D4E1B9615952258C",
+    "description": "-",
+    "links": [],
+    "explorer": "-",
+    "symbol": "BTCK",
+    "type": "KRC20",
+    "decimals": 18,
+    "status": "active"
+}
