@@ -1,0 +1,12 @@
+{
+    "id": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "name": "Wrapper Bitcoin",
+    "website": "https://optimistic.etherscan.io/token/0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "description": "-",
+    "links": [],
+    "explorer": "-",
+    "symbol": "WBTC",
+    "type": "OPTIMISM",
+    "decimals": 18,
+    "status": "active"
+}
