@@ -1,0 +1,19 @@
+{
+    "id": "0x0000000000000000000000000000000000000000",
+    "name": "EthereumPOW",
+    "website": "https://ethereumpow.org/",
+    "source_code": "https://github.com/ethereumpow",
+    "description": "EthereumPow, the original PoW-based Ethereum network. Ethereum Foundation is shifting to a PoS fork while we decided to stay with the PoW Ethereum.",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ethereumpow",
+            "handle": "ethereum"
+        }
+    ],
+    "explorer": "https://mainnet.ethwscan.com",
+    "symbol": "ETHW",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active"
+}
