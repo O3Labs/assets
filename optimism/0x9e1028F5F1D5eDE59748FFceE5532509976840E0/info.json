@@ -1,0 +1,13 @@
+{
+    "name": "Perpetual",
+    "website": "https://perp.fi",
+    "source_code": "https://github.com/perpetual-protocol",
+    "white_paper": "https://docs.perp.fi/",
+    "description": "Decentralized Perpetual Contract for Every Assets",
+    "explorer": "https://optimistic.etherscan.io/token/0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "type": "OPTIMISM",
+    "symbol": "PERP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0"
+}
