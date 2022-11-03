@@ -1,0 +1,22 @@
+{
+    "name": "Mask Network",
+    "website": "https://mask.io",
+    "source_code": "https://github.com/DimensionDev/Maskbook",
+    "description": "The portal to the new, open internet.",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/realmaskbook"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/masknetwork"
+        }
+    ],
+    "explorer": "https://polygonscan.com/token/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
+    "type": "POLYGON",
+    "symbol": "MASK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7"
+}
