@@ -1,13 +1,13 @@
 {
-    "name": "Bridged USDC",
+    "name": "USD Coin",
     "website": "https://www.centre.io",
     "description": "Its price is pegged to USD Coin (USD ERC20) at a ratio of 1:1.",
-    "explorer": "https://bscscan.com/token/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "explorer": "https://bscscan.com/token/0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "type": "ARBITRUM",
-    "symbol": "USDC.e",
+    "symbol": "USDC",
     "decimals": 6,
     "status": "active",
-    "id": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "id": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
     "links": [
         {
             "name": "github",
