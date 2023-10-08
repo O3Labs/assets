@@ -1,0 +1,11 @@
+{
+  "name": "USD Coin",
+  "website": "https://www.circle.com/en/usdc",
+  "description": "Its price is pegged to USD Coin (USD ERC20) at a ratio of 1:1.",
+  "explorer": "https://basescan.org/token/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913s",
+  "type": "Base",
+  "symbol": "USDC",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913s"
+}

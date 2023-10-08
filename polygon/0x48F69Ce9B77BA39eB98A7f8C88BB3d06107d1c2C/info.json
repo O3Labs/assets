@@ -1,0 +1,45 @@
+{
+  "name": "O3 Swap Token",
+  "type": "POLYGON",
+  "symbol": "WO3",
+  "decimals": 18,
+  "website": "https://o3swap.com",
+  "description": "",
+  "explorer": "https://polygonscan.com/token/0x48F69Ce9B77BA39eB98A7f8C88BB3d06107d1c2C",
+  "status": "active",
+  "id": "0x48F69Ce9B77BA39eB98A7f8C88BB3d06107d1c2C",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/O3_Labs"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://docs.o3swap.com/o3-swap-litepaper"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/o3-labs-o3-wallet"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/O3LabsOfficial"
+    },
+    {
+      "name": "reddit",
+      "url": "https://www.reddit.com/r/O3Labs"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/O3Labs"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/bsqAnjVXM8"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/o3-swap"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Mai Stablecoin",
+  "website": "",
+  "description": "-",
+  "explorer": "https://basescan.org/address/0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
+  "type": "BASE",
+  "symbol": "MAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE"
+}
