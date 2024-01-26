@@ -1,25 +1,26 @@
 {
     "id": "0x0000000000000000000000000000000000000000",
-    "name": "Avalanche C-Chain",
-    "website": "http://avax.network",
-    "description": "Avalanche is an open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. This is the C-Chain, the default smart contract blockchain on Avalanche that enables the creation of any Ethereum-compatible smart contracts.",
-    "explorer": "https://explorer.avax.network",
-    "research": "https://research.binance.com/en/projects/avalanche",
-    "symbol": "AVAX",
-    "type": "coin",
-    "decimals": 18,
-    "status": "active",
-    "tags": [
-        "defi"
-    ],
+    "name": "Ethereum",
+    "website": "https://ethereum.org/",
+    "source_code": "https://github.com/ethereum",
+    "white_paper": "https://github.com/ethereum/wiki/wiki/White-Paper",
+    "description": "Open source platform to write and distribute decentralized applications.",
     "links": [
         {
-            "name": "github",
-            "url": "https://github.com/ava-labs"
+            "name": "twitter",
+            "url": "https://twitter.com/ethereum",
+            "handle": "ethereum"
         },
         {
-            "name": "whitepaper",
-            "url": "https://www.avalabs.org/whitepapers"
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/ethereum",
+            "handle": "ethereum"
         }
-    ]
+    ],
+    "explorer": "https://etherscan.io/",
+    "research": "https://research.binance.com/en/projects/ethereum",
+    "symbol": "ETH",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active"
 }
