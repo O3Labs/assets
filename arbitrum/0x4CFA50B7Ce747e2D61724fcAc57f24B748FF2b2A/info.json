@@ -1,0 +1,12 @@
+{
+  "name": "Fluid USDC",
+  "website": "https://fluidity.money/",
+  "description": "",
+  "explorer": "https://arbiscan.io/token/0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A",
+  "type": "ARBITRUM",
+  "symbol": "fUSDC",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A",
+  "links": []
+}

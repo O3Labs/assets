@@ -1,0 +1,12 @@
+{
+  "name": "FarLaunch",
+  "website": "https://farlaunch.xyz/",
+  "description": "The first fair launchpad on farcaster, governanced by FAR DAO.",
+  "explorer": "https://basescan.org/token/0x93e6407554B2F02640aB806cD57bd83e848Ec65d",
+  "type": "BASE",
+  "symbol": "FAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x93e6407554B2F02640aB806cD57bd83e848Ec65d",
+  "links": []
+}
